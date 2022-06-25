@@ -13,6 +13,11 @@ After calculating the DQ stock in 2018, we saw that Daqo dropped over 63% in 201
 
 We also heled him to be able to calculate all Stocks and bot 2017 and 2018 worksheet. After running the program we can see that in 2018 most of the stocks had negative percentage. So overall the stock market was not good, If we look at the 2017, we can see that stock in 2017 grow better than 2018.
 
+![image](https://user-images.githubusercontent.com/49285767/175756141-4770a1c7-ab88-462f-a668-7d22c85c660d.png)
+
+![image](https://user-images.githubusercontent.com/49285767/175756159-08d7618b-8215-40ef-94fc-e8e06290af59.png)
+
+
 Summary: 
 1.	What are the advantages or disadvantages of refactoring code?
 It is a great tool to use and will help a lot with analysis, but the disadvantages would be for big data that will take time and may cause big chaos. 
